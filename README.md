@@ -1,14 +1,12 @@
 ### 谁明我心 👋
 ## I'm daodao2007
-
-
-
-| | |
-| :-- | --: |
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daodao2007&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daodao2007&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
-
+<p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daodao2007&layout=compact&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=daodao2007&show_icons=true&hide_border=true" />
+</p>
 
 ### 🛠 技术栈 | Tech Stack
+
 
 - 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=FCC624)
 ![GO](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=FCC624)
