@@ -1,10 +1,12 @@
 ### 谁明我心 👋
-
 ## I'm daodao2007
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daodao2007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daodao2007)](https://github.com/anuraghazra/github-readme-stats)
+
+| | |
+| :-- | --: |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daodao2007&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daodao2007&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
+
 
 ### 🛠 技术栈 | Tech Stack
 
