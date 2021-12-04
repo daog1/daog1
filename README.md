@@ -1,7 +1,7 @@
 ### 谁明我心 👋
 ## I'm daodao2007
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daodao2007&layout=compact&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daodao2007&layout=compact&show_icons=true&hide_border=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=daodao2007&show_icons=true&hide_border=true" />
 </p>
 
