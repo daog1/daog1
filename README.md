@@ -1,6 +1,7 @@
 ### 谁明我心 👋
 ## I'm daodao2007
 ## Github Overview
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daodao2007" alt="daodao2007" /></a> </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daodao2007&layout=compact&show_icons=true&hide_border=true" /> &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=daodao2007&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
