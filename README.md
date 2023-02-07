@@ -3,7 +3,7 @@
 - 💻 Do R&D in Block chain Company
 - 🌱 Interested in chain development, contract development
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Email me](mailto:lixiao187@gmail.com) or [Twitter DMs](https://twitter.com/Michael_aisen)!
+- 📫 How to reach me: [Email me](mailto:lixiao187@gmail.com) or [Twitter DMs](https://twitter.com/Michael_e18)!
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/daog1)!
 ## Github Overview
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daog1" alt="daog1" /></a> </p>
