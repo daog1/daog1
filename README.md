@@ -35,17 +35,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-<!--
-**daodao2007/daodao2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Articles on Dev.to
+Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [vyper挺好玩的](https://dev.to/xiaodao/vyperting-hao-wan-de-2kok) - 09/11/2024
+- [最近的一些情况](https://dev.to/xiaodao/zui-jin-de-xie-qing-kuang-3g04) - 14/10/2024
+- [一些想法](https://dev.to/xiaodao/xie-xiang-fa-44mi) - 13/07/2024
+- [emacs org感觉挺好的](https://dev.to/xiaodao/emacs-orggan-jue-ting-hao-de-5f50) - 15/06/2024
+- [最近使用的几个工具](https://dev.to/xiaodao/zui-jin-shi-yong-de-ji-ge-gong-ju-1o3p) - 11/02/2024
+- [jq在区块链开发中的使用](https://dev.to/xiaodao/jqzai-qu-kuai-lian-kai-fa-zhong-de-shi-yong-50kc) - 11/09/2023
+- [lnav 自定义日志格式支持](https://dev.to/xiaodao/lnav-zi-ding-yi-ri-zhi-ge-shi-zhi-chi-578) - 26/02/2023
+- [两种常见的合约套路](https://dev.to/xiaodao/liang-chong-chang-jian-de-he-yue-tao-lu-3gh1) - 11/04/2022
+- [tx.origin攻击实现](https://dev.to/xiaodao/txorigingong-ji-shi-xian-4lm3) - 11/04/2022
+- [ethers-multicall项目解读](https://dev.to/xiaodao/ethers-multicallxiang-mu-jie-du-4pjn) - 15/03/2022
