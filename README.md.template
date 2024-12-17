@@ -5,6 +5,8 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email me](mailto:lixiao187@gmail.com) or [Twitter DMs](https://twitter.com/Michael_e18)!
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/daog1)!
+- [HackQuest Certification](https://www.hackquest.io/zh/user/62778)
+- [DeCert Certification](https://decert.me/0xdD0979b988948b72aBc6413332E9eE160D629161)
 ## Github Overview
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daog1" alt="daog1" /></a> </p>
 
