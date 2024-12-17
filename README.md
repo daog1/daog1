@@ -39,6 +39,8 @@
 ## Articles on Dev.to
 Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 
+- [solana 获取钱包token余额，及优化](https://dev.to/xiaodao/solana-huo-qu-qian-bao-tokenyu-e-ji-you-hua-3enb) - 17/12/2024
+- [solana是如何算seed地址](https://dev.to/xiaodao/solanashi-ru-he-suan-seeddi-zhi-d6p) - 17/12/2024
 - [vyper挺好玩的](https://dev.to/xiaodao/vyperting-hao-wan-de-2kok) - 09/11/2024
 - [最近的一些情况](https://dev.to/xiaodao/zui-jin-de-xie-qing-kuang-3g04) - 14/10/2024
 - [一些想法](https://dev.to/xiaodao/xie-xiang-fa-44mi) - 13/07/2024
@@ -47,5 +49,3 @@ Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 - [jq在区块链开发中的使用](https://dev.to/xiaodao/jqzai-qu-kuai-lian-kai-fa-zhong-de-shi-yong-50kc) - 11/09/2023
 - [lnav 自定义日志格式支持](https://dev.to/xiaodao/lnav-zi-ding-yi-ri-zhi-ge-shi-zhi-chi-578) - 26/02/2023
 - [两种常见的合约套路](https://dev.to/xiaodao/liang-chong-chang-jian-de-he-yue-tao-lu-3gh1) - 11/04/2022
-- [tx.origin攻击实现](https://dev.to/xiaodao/txorigingong-ji-shi-xian-4lm3) - 11/04/2022
-- [ethers-multicall项目解读](https://dev.to/xiaodao/ethers-multicallxiang-mu-jie-du-4pjn) - 15/03/2022
