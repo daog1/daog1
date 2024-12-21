@@ -15,7 +15,7 @@ jobs:
         uses: huantt/article-listing@v1.1.0
         with:
           username: xiaodao
-          limit: 10
+          limit: 12
           template-file: 'README.md.template'
           out-file: 'README.md'
       - name: Commit
