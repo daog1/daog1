@@ -71,6 +71,7 @@
 ## Articles on Dev.to
 Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 
+- [用 Go 监控 PumpSwap 流动性：三步搞定](https://dev.to/xiaodao/yong-go-jian-kong-pumpswap-liu-dong-xing-san-bu-gao-ding-16oc) - 07/04/2025
 - [go调用solidity合约新方法](https://dev.to/xiaodao/godiao-yong-solidityhe-yue-xin-fang-fa-lp2) - 21/12/2024
 - [solana 获取钱包token余额，及优化](https://dev.to/xiaodao/solana-huo-qu-qian-bao-tokenyu-e-ji-you-hua-3enb) - 17/12/2024
 - [solana是如何算seed地址](https://dev.to/xiaodao/solanashi-ru-he-suan-seeddi-zhi-d6p) - 17/12/2024
