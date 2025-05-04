@@ -42,8 +42,6 @@ When I'm not being subjected by capitalism, I spend my time contributing to open
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daog1" alt="daog1" /></a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daog1&layout=compact&show_icons=true&hide_border=true" /> &nbsp;
-
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=daog1&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
