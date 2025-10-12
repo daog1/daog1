@@ -57,6 +57,7 @@ When I'm not being subjected by capitalism, I spend my time contributing to open
 ## Articles on Dev.to
 Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 
+- [Why Cogoma: Go Implementation of Codama IDL Ecosystem](https://dev.to/xiaodao/why-cogoma-go-implementation-of-codama-idl-ecosystem-k0j) - 12/10/2025
 - [An Instruction Analysis MCP Usage Case](https://dev.to/xiaodao/an-instruction-analysis-mcp-usage-case-4eel) - 30/09/2025
 - [Introduction to Solana Instruction Parsing MCP](https://dev.to/xiaodao/introduction-to-solana-instruction-parsing-mcp-1mk6) - 28/09/2025
 - [使用 Lumen AI 简化 Git Commit 信息生成](https://dev.to/xiaodao/shi-yong-lumen-ai-jian-hua-git-commit-xin-xi-sheng-cheng-439a) - 14/06/2025
@@ -69,4 +70,3 @@ Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 - [一些想法](https://dev.to/xiaodao/xie-xiang-fa-44mi) - 13/07/2024
 - [emacs org感觉挺好的](https://dev.to/xiaodao/emacs-orggan-jue-ting-hao-de-5f50) - 15/06/2024
 - [最近使用的几个工具](https://dev.to/xiaodao/zui-jin-shi-yong-de-ji-ge-gong-ju-1o3p) - 11/02/2024
-- [jq在区块链开发中的使用](https://dev.to/xiaodao/jqzai-qu-kuai-lian-kai-fa-zhong-de-shi-yong-50kc) - 11/09/2023
