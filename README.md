@@ -18,7 +18,6 @@ When I'm not being subjected by capitalism, I spend my time contributing to open
 <a href="https://www.hackquest.io/zh/user/62778">
 <img src="https://raw.githubusercontent.com/daog1/daog1/refs/heads/main/imgs/xiaodao-1001801.png" alt="daog1" /></a> </p>
 </td>
-<td>
 </tr>
 </table>
 
