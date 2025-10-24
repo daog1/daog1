@@ -39,6 +39,7 @@ When I'm not being subjected by capitalism, I spend my time contributing to open
 ## Articles on Dev.to
 Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 
+- [🚀 Introducing Solana Instruction MCP — A Game-Changing Tool for...](https://dev.to/xiaodao/introducing-solana-instruction-mcp-a-game-changing-tool-for-solana-developers-4jib) - 24/10/2025
 - [Why Cogoma: Go Implementation of Codama IDL Ecosystem](https://dev.to/xiaodao/why-cogoma-go-implementation-of-codama-idl-ecosystem-k0j) - 12/10/2025
 - [An Instruction Analysis MCP Usage Case](https://dev.to/xiaodao/an-instruction-analysis-mcp-usage-case-4eel) - 30/09/2025
 - [Introduction to Solana Instruction Parsing MCP](https://dev.to/xiaodao/introduction-to-solana-instruction-parsing-mcp-1mk6) - 28/09/2025
@@ -51,4 +52,3 @@ Check out my articles on [dev.to](https://dev.to/xiaodao) 🔖📖📚🤓
 - [最近的一些情况](https://dev.to/xiaodao/zui-jin-de-xie-qing-kuang-3g04) - 14/10/2024
 - [一些想法](https://dev.to/xiaodao/xie-xiang-fa-44mi) - 13/07/2024
 - [emacs org感觉挺好的](https://dev.to/xiaodao/emacs-orggan-jue-ting-hao-de-5f50) - 15/06/2024
-- [最近使用的几个工具](https://dev.to/xiaodao/zui-jin-shi-yong-de-ji-ge-gong-ju-1o3p) - 11/02/2024
