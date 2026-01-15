@@ -23,15 +23,13 @@ When I'm not being subjected by capitalism, I spend my time contributing to open
 
 ## Github Overview
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daog1&theme=blueberry) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daog1&theme=github) 
 
-<table border="none"><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=daog1&theme=blueberry&show_icons=true&count_private=true&rank_icon=github">
+<table border="none"><tbody><tr border="none"><td width="100%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=daog1&theme=github&show_icons=true&count_private=true&rank_icon=github">
+</td></tr></tbody></table>
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=daog1&theme=blueberry"></td><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=daog1&theme=blueberry&hide=html,css&hide_border=false&no-bg=true&no-frame=true&langs_count=10"></td></tr></tbody></table>
-
-![](https://github-profile-trophy.vercel.app/?username=daog1&theme=aura)
+![](https://github-profile-trophy.vercel.app/?username=daog1&theme=github)
 
 
 
